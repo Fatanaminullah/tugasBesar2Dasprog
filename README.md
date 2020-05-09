@@ -1,3 +1,5 @@
-# Program Menu Sederhana
+# Aplikasi Pendataan Mahasiswa
 
-## Download filenya kemudian jalankan di compiler c++ (saya menggunakan Dev C++)
+### Program menu sederhana menggunakan bahasa pemrograman c++
+
+### Download filenya kemudian jalankan di compiler c++ (saya menggunakan Dev C++)
